@@ -132,6 +132,18 @@ A 2D calculation produces:
 - `scripts/DDFT/Protein_RPA/`: sequence-dependent RPA+FH free-energy routines.
 - `scripts/bash/`: example HPC/SLURM launch scripts.
 
+## Code Provenance
+
+The free-energy model used in this project was developed by Y.-H. Lin and is derived from the implementation available at:
+https://github.com/laphysique/Protein_RPA
+
+The finite-volume PDE solver is implemented using FiPy:
+https://github.com/usnistgov/fipy
+
+A portion of the biomolecular condensate movie-generation workflow was adapted from the methodology provided in:
+https://github.com/krishna-shrinivas/2020_Henninger_Oksuz_Shrinivas_RNA_feedback
+
+
 ## Attribution and citation
 
 The RPA-related routines in `scripts/DDFT/Protein_RPA/` were adapted from
