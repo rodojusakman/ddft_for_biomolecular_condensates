@@ -26,8 +26,8 @@ conda activate ddft
 pip install -e .
 ```
 
-#Code Provenance#
+#Code Provenance
 The free energy model used in this project is derived from  originally developed by Y.-H. Lin: https://github.com/laphysique/Protein_RPA
 
-#Authors and Contributors#
+#Authors and Contributors
 Current development is carried out in the Zerze research group at the University of Houston.
