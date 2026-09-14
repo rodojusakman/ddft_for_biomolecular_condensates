@@ -1,5 +1,4 @@
-# ddft_for_biomolecular_condensates
-# ddft_for_biomolecular_condensates
+# Dynamical Density Functional Theory Framework for Non-Equilibrium Phase Behavior of Biomolecular Condensates
 
 
 # DDFT for Biomolecular Condensates
