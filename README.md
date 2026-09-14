@@ -28,6 +28,7 @@ pip install -e .
 
 # Code Provenance
 The free energy model used in this project is derived from  originally developed by Y.-H. Lin: https://github.com/laphysique/Protein_RPA
+
 A Finite Volume PDE Solver Using Python (Fipy): https://github.com/usnistgov/fipy
 
 # Authors and Contributors
