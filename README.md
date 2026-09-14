@@ -24,7 +24,7 @@ After Anaconda or Miniconda is installed on your machine, create and activate th
 conda env create -f envs/ddft.yml
 conda activate ddft
 pip install -e .
-
+```
 
 Code Provenance
 The free energy model used in this project is derived from  originally developed by Y.-H. Lin: https://github.com/laphysique/Protein_RPA
