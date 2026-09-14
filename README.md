@@ -17,8 +17,6 @@ Use one of the following methods to set up a working environment for `ddft_for_b
 
 The workflow requires specific scientific computing (NumPy, SciPy, PyTorch) and numerical solver for PDE (FiPy) tools, which can be acquired via the Anaconda/Miniconda package manager.
 
-Fipy: https://github.com/usnistgov/fipy
-
 
 After Anaconda or Miniconda is installed on your machine, create and activate the environment:
 
