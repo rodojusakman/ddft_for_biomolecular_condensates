@@ -31,5 +31,7 @@ The free energy model used in this project is developd by Y.-H. Lin and is deriv
 
 A Finite Volume PDE Solver Using Python (Fipy): https://github.com/usnistgov/fipy
 
+A portion of the biomolecular condensate movie-generation workflow was adapted from the methodology provided in: https://github.com/krishna-shrinivas/2020_Henninger_Oksuz_Shrinivas_RNA_feedback 
+
 # Authors and Contributors
 Current development is carried out in the Zerze research group at the University of Houston.
