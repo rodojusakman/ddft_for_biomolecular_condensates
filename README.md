@@ -12,6 +12,9 @@ The paper is submitted to biorxiv:
 **Silalahi**, A. R. J., Murray, M. G., & Zerze, G. H. (2025). A dynamical density functional theory framework for non-equilibrium phase dynamics in biomolecular condensates. bioRxiv. https://doi.org/10.1101/2025.10.02.680159
 
 
+
+
+
 The current release was developed primarily for two-dimensional, single-protein
 calculations of droplet relaxation, interface evolution, and coalescence. It is
 research code rather than a general-purpose DDFT package.
