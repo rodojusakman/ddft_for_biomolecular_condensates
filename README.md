@@ -8,6 +8,7 @@ random-phase-approximation/Flory–Huggins (RPA+FH) bulk free energy with a
 square-gradient interfacial term and evolves the protein density field using
 the finite-volume package [FiPy](https://www.ctcms.nist.gov/fipy/).
 
+Reference:
 **Silalahi**, A. R. J., Murray, M. G., & Zerze, G. H. (2025). A dynamical density functional theory framework for non-equilibrium phase dynamics in biomolecular condensates. bioRxiv. https://doi.org/10.1101/2025.10.02.680159
 
 
